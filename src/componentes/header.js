@@ -5,5 +5,4 @@ export function header(){
         <h1>Soy el encabezado</h1>
         ${menu()}
     `
-
 }

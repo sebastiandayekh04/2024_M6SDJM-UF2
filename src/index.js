@@ -9,8 +9,6 @@ function app(){
     return `
     ${header()}
     <div id="vistas">Aqui van las vistas</div>
-
-    
     `
 }
 // const app = `<h1>SPA</h1>`
